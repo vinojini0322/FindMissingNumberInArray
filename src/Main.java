@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String args[]) {
-        int[] testArray = {1, 2, 3, 4, 5, 6, 7, 8,9, 10,11,12,13,14,15,17,18};
+        int[] testArray = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 18};
         int start = 1;
         int end = 18;
         missingNumber(testArray, start, end);
